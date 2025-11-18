@@ -1,3 +1,3 @@
 # The repOK method verified several key invariants
 
-For AVL Tree, the recursive checkInvariants helper method is essential for AVL trees because it enableschecking of tree properties at each node level. Recursion naturally handles the hierarchical tree structure, makingit well-suited for traversing nodes.
+For AVL Tree, the recursive `checkInvariants` helper method is essential for AVL trees because it enableschecking of tree properties at each node level. Recursion naturally handles the hierarchical tree structure, makingit well-suited for traversing nodes.
